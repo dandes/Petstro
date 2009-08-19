@@ -20,6 +20,9 @@
 */
 
 #include <iostream>
+
+#include "GameMaster.hpp"
+#include "Player.hpp"
 #include "GameplayOpt-002.hpp"
 
 using namespace std;
