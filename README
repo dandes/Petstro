@@ -1,1 +1,10 @@
-I pwn joo all day long
+$ git push origin master
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+error: failed to push to 'git@github.com:stonean/stage.git'
+
+
+
+Enter 
+$ cd ~/.ssh
+$ ssh-add id_rsa
