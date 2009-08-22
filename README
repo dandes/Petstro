@@ -1,3 +1,5 @@
+What to do if you hang...
+
 $ git push origin master
 Permission denied (publickey).
 fatal: The remote end hung up unexpectedly
